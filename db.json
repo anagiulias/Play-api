@@ -2,8 +2,8 @@
     "videos": [
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
+            "titulo": "Assassin's Creed Valhalla",
+            "capa": "https://i.pinimg.com/originals/e4/22/70/e422709392e22e26482bba2b7810f330.jpg",
             "link": "https://www.youtube.com/embed/L0Fr3cS3MtY"
         },
         {
@@ -22,7 +22,7 @@
             "id": 4,
             "titulo": "Tell Me Why",
             "capa": "https://i.pinimg.com/originals/44/39/21/443921ed65a07b10b9646e37133396a9.png",
-            "link": "https://www.youtube.com/embed/DRN2VgTB-J8&feature=youtu.be"
+            "link": "https://www.youtube.com/embed/DRN2VgTB-J8"
         }
     ]
 }
